@@ -15,10 +15,11 @@ Tang San (former Tang Sect disciple from Earth) is reborn as the son of **Tang H
 ## 2. Power System & World Rules (Hard Rules – Read First)
 
 ### Martial Spirits
-- Awakened at age 6. Training normally begins at 10.
+- Awakened at age 6.
 - Two families: **Beast spirits** (animal → physical transformation, offense/defense) and **Tool spirits** (object/plant/phenomenon → control, support, technique).
 - Most people have one spirit. **Twin martial spirits** are extremely rare and treated as destiny-level potential. The second spirit is almost always kept secret because of the danger it attracts (Spirit Hall and major powers hunt twin-spirit users).
 - Spirits carry inherent elemental leanings that constrain later skills.
+- Martial souls don't have instincts or contiousness except for externally attached ones like Luo sanpo.
 
 ### Rank Titles
 1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super/Hyper Douluo → 99 Limit Douluo → 100 God.
@@ -81,7 +82,7 @@ Spirit bones are rarer than rings. They grant permanent passive boosts + active 
 ### Critical World Rules (for AI continuity)
 
 **Transformed Soul Beasts**
-- 100 000-year spirit beasts can take human form and possess human-level (or higher) intelligence (Xiao Wu, Ah Yin).
+- 100 000-year spirit beasts can take human form and possess human-level intelligence (Xiao Wu, Ah Yin).
 - **Only Titled Douluo (rank 91+) and extremely powerful Control-system Spirit Masters** can see through a transformed 100 000-year soul beast’s human disguise under normal conditions. Ordinary Spirit Masters, even high-rank ones, cannot pierce the disguise by sight or ordinary spiritual detection.
 - A spirit bone reaction, extreme emotional outburst, or deliberate revelation can temporarily expose the true aura even to weaker observers.
 - Killing a 100 000-year spirit beast for its ring is an act of enormous consequence and draws intense attention.
