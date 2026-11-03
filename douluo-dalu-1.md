@@ -1,4 +1,4 @@
-# Douluo Dalu Book 1 — Story Bible (v14)
+# Douluo Dalu Book 1 — Story Bible (v17)
 
 Reference for AI continuity · Chapters 0–336 · Concise, structured, high-guidance
 
@@ -26,11 +26,56 @@ Tang San (former Tang Sect disciple from Earth) is reborn as the son of **Tang H
 Innate full spirit power (rank 10 at awakening) is legendary and signals huge potential.
 
 ### Spirit Rings (maximum nine)
-White <100 y · Yellow 100–999 · Purple 1 000–9 999 · Black 10 000–99 999 · Red 100 000+ (golden markings every extra 100 k years) · Platinum 1 000 000 · Divine/Bright Gold beyond.  
-Each ring grants one spirit ability. Age of the ring strongly affects power. Absorbing a ring far above one’s current level is life-threatening for normal people.
+White <100 y · Yellow 100–999 · Purple 1 000–9 999 · Black 10 000–99 999 · Red 100 000+ (golden markings every extra 100 k years) · Platinum 1 000 000 · Divine/Bright Gold beyond.
 
-### Spirit Bones
-Rarer than rings. Grant passive boosts + active skills independent of the nine-ring cap. Can be external (e.g. Tang San’s Eight Spider Lances from the Man-Faced Demon Spider).
+**Number of skills granted by a spirit ring**
+- Ordinary spirit rings (under 100 000 years): **1 spirit skill**
+- 100 000-year spirit rings: **2 spirit skills**
+- 1 000 000-year (Platinum) spirit rings: **4 spirit skills** (extremely rare, god-tier resource)
+
+Each ring’s age also strongly affects the power of the skill(s). Absorbing a ring far above one’s current level is life-threatening for normal people.
+
+**Soul power feedback on absorption**  
+After successfully absorbing a spirit ring, the Spirit Master almost always receives an immediate soul-power feedback that raises their rank by roughly **1 to 2 levels** (sometimes slightly more with particularly suitable or high-age rings).
+
+### Spirit Bones (Normal vs External)
+
+Spirit bones are rarer than rings. They grant permanent passive boosts + active skills and do **not** count against the nine-ring limit.
+
+**Number of skills from spirit bones**
+- Ordinary spirit bones: usually **1 active skill**
+- 100 000-year spirit bones: **2 active skills**
+- 1 000 000-year spirit bones: up to **4 active skills** (mythic rarity)
+
+**Normal (standard) spirit bones – six fixed positions**
+
+| Position | Primary Benefits |
+|----------|------------------|
+| **Skull** | Pure mental / spiritual power boost. Greatly enhances spiritual force, perception, mental defense, and mental-type skills. |
+| **Torso (Trunk)** | Overall endurance, defense, vitality, and comprehensive bodily strength. Improves survivability and sustained combat ability. |
+| **Left Arm / Right Arm** | Greatly increases strength and attack power of that arm. Improves striking force, weapon handling, and arm-based techniques. |
+| **Left Leg / Right Leg** | Greatly increases speed, agility, and mobility. Improves footwork, explosive movement, and leg-based techniques. |
+
+- A Spirit Master can absorb at most **one bone per position** (maximum six normal spirit bones).
+- Once a position is filled it cannot normally accept another bone of the same type.
+
+**External spirit bones**
+- Extremely rare. Formed under special conditions and do **not** occupy any of the six standard positions.
+- Can be absorbed in addition to a full set of six normal bones.
+- Can grow and evolve further as the owner’s strength increases (classic example: Tang San’s Eight Spider Lances from the Man-Faced Demon Spider).
+- Generally more precious than ordinary bones of similar age because they are unrestricted and can continue evolving.
+
+**Benefits of absorbing any spirit bone**
+- Immediate permanent increase in physical fitness, strength, speed, endurance, and bodily resilience (scaled by the bone’s age and position).
+- One or more active skills linked to the bone’s origin.
+- Significant soul-power feedback. Higher-age bones give larger rank boosts.
+  - A 100 000-year spirit bone can raise even a high-level Spirit Master by several ranks.
+  - Example: a 100 000-year bone improved Tang San by approximately **5 ranks** when he was already around rank 80.
+- Because cultivation becomes progressively harder at higher ranks, the same absolute gain is far more valuable in the 70s–90s than at low levels.
+
+**Important notes**
+- 100 000-year spirit bones (and rings) are extremely rare strategic resources and almost always trigger major attention from Spirit Hall and other powers.
+- External bones can continue to evolve and unlock additional abilities as their owner grows stronger.
 
 ### Critical World Rules (for AI continuity)
 
@@ -64,7 +109,6 @@ Rarer than rings. Grant passive boosts + active skills independent of the nine-r
 
 **Other Hard Limits**
 - A Spirit Master can normally carry at most nine spirit rings.
-- External spirit bones are exceedingly rare and do not count against the six standard spirit-bone slots.
 - Godhood requires formal trials and inheritance (Sea God, Asura God, Angel God, Rakshasa God paths appear in Book 1).
 
 ---
@@ -360,5 +404,5 @@ Holy Spirit Village · Nuoding Academy · Original Shrek (Suotuo) · Heaven Dou 
 
 ---
 
-Douluo Dalu Book 1 Story Bible — v14  
+Douluo Dalu Book 1 Story Bible — v17  
 Expanded hard world rules at top (transformed soul-beast detection, twin-spirit limits, Spirit Hall behaviour, combat constraints, etc.) for easy AI retrieval.
