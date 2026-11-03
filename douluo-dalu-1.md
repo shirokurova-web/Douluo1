@@ -1,4 +1,4 @@
-# Douluo Dalu Book 1 — Story Bible (v13)
+# Douluo Dalu Book 1 — Story Bible (v14)
 
 Reference for AI continuity · Chapters 0–336 · Concise, structured, high-guidance
 
@@ -12,26 +12,60 @@ Tang San (former Tang Sect disciple from Earth) is reborn as the son of **Tang H
 
 ---
 
-## 2. Power System (Hard Rules)
+## 2. Power System & World Rules (Hard Rules – Read First)
 
-**Martial Spirits**  
-Awakened at age 6. Beast (animal, physical) or Tool (object/plant, control/support). Rare twin spirits = exceptional potential; second spirit usually kept secret.
+### Martial Spirits
+- Awakened at age 6. Training normally begins at 10.
+- Two families: **Beast spirits** (animal → physical transformation, offense/defense) and **Tool spirits** (object/plant/phenomenon → control, support, technique).
+- Most people have one spirit. **Twin martial spirits** are extremely rare and treated as destiny-level potential. The second spirit is almost always kept secret because of the danger it attracts (Spirit Hall and major powers hunt twin-spirit users).
+- Spirits carry inherent elemental leanings that constrain later skills.
 
-**Ranks**  
-1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super Douluo → 99 Limit → 100 God.
+### Rank Titles
+1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super/Hyper Douluo → 99 Limit Douluo → 100 God.
 
-**Spirit Rings** (max 9)  
-White <100 y · Yellow 100–999 · Purple 1k–9 999 · Black 10k–99 999 · Red 100k+ · Platinum 1 M · Divine beyond.  
-Each ring = one ability. Age strongly affects power. Limit-breaking absorption is lethal for normal people.
+Innate full spirit power (rank 10 at awakening) is legendary and signals huge potential.
 
-**Spirit Bones**  
-Rarer, independent of the nine-ring cap. Can be external (Tang San’s Eight Spider Lances).
+### Spirit Rings (maximum nine)
+White <100 y · Yellow 100–999 · Purple 1 000–9 999 · Black 10 000–99 999 · Red 100 000+ (golden markings every extra 100 k years) · Platinum 1 000 000 · Divine/Bright Gold beyond.  
+Each ring grants one spirit ability. Age of the ring strongly affects power. Absorbing a ring far above one’s current level is life-threatening for normal people.
 
-**Key rules for continuity**  
-- Twin spirits cannot both be fully cultivated at the same pace without risk.  
-- 100 000-year beasts can take human form (Xiao Wu, Ah Yin).  
-- Spirit Hall tracks twin spirits and 100k-year rings.  
-- Tang Sect hidden weapons, poisons and internal cultivation sit outside the spirit system and often decide fights.
+### Spirit Bones
+Rarer than rings. Grant passive boosts + active skills independent of the nine-ring cap. Can be external (e.g. Tang San’s Eight Spider Lances from the Man-Faced Demon Spider).
+
+### Critical World Rules (for AI continuity)
+
+**Transformed Soul Beasts**
+- 100 000-year spirit beasts can take human form and possess human-level (or higher) intelligence (Xiao Wu, Ah Yin).
+- **Only Titled Douluo (rank 91+) and extremely powerful Control-system Spirit Masters** can see through a transformed 100 000-year soul beast’s human disguise under normal conditions. Ordinary Spirit Masters, even high-rank ones, cannot pierce the disguise by sight or ordinary spiritual detection.
+- A spirit bone reaction, extreme emotional outburst, or deliberate revelation can temporarily expose the true aura even to weaker observers.
+- Killing a 100 000-year spirit beast for its ring is an act of enormous consequence and draws intense attention.
+
+**Twin Spirits**
+- Cannot both be fully cultivated at the same pace without severe risk of backlash or loss of control.
+- One spirit is usually suppressed or cultivated later.
+- Revelation of a twin spirit almost always attracts Spirit Hall interest or hostility.
+
+**Spirit Hall & Politics**
+- Spirit Hall maintains registries and actively monitors high-potential Spirit Masters, twin spirits, and 100 000-year rings/bones.
+- Spirit Hall can pressure or absorb independent academies and clans (previewed by the forced merger of four of the Five Elemental Academies).
+- Title Douluo are rare strategic assets; Super Douluo and Limit Douluo are near-mythical on the continent.
+
+**Combat & System Constraints**
+- Power is systemic: every major feat must be traceable to rings, bones, rank, domain, an established spirit ability, or Tang Sect techniques (hidden weapons, poison, internal cultivation). No ungrounded power jumps.
+- Tang Sect methods (hidden weapons, poisons, Mysterious Heaven Skill, Purple Demon Eye, etc.) sit **outside** the normal spirit system and frequently give Tang San decisive edges against pure Spirit Masters.
+- Domains appear at high levels (especially Titled Douluo) and can suppress or enhance large areas.
+- Spirit Fusion abilities (e.g. Hell White Tiger) require deep compatibility and trust between partners.
+- Food-type and pure support spirits cannot directly attack; their value is utility and amplification.
+
+**Cultivation Timing**
+- Rank advancement requires absorbing an appropriate spirit ring when spirit power reaches the next decade threshold.
+- The years before age 20 are the most critical growth window; crossing rank 30 before 20 is considered an excellent foundation.
+- Immortal herbs from the Ice and Fire Yin Yang Well provide permanent foundation boosts and, in specific cases, spirit evolution (e.g. Seven Treasure → Nine Treasure).
+
+**Other Hard Limits**
+- A Spirit Master can normally carry at most nine spirit rings.
+- External spirit bones are exceedingly rare and do not count against the six standard spirit-bone slots.
+- Godhood requires formal trials and inheritance (Sea God, Asura God, Angel God, Rakshasa God paths appear in Book 1).
 
 ---
 
@@ -326,5 +360,5 @@ Holy Spirit Village · Nuoding Academy · Original Shrek (Suotuo) · Heaven Dou 
 
 ---
 
-Douluo Dalu Book 1 Story Bible — v13  
-Full immortal-herb catalogue from wiki (all listed herbs, effects + pickup methods, no recipient column).
+Douluo Dalu Book 1 Story Bible — v14  
+Expanded hard world rules at top (transformed soul-beast detection, twin-spirit limits, Spirit Hall behaviour, combat constraints, etc.) for easy AI retrieval.
