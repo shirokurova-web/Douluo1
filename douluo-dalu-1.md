@@ -1,4 +1,4 @@
-# Douluo Dalu Book 1 — Story Bible (v17)
+# Douluo Dalu Book 1 — Story Bible (v18)
 
 Reference for AI continuity · Chapters 0–336 · Concise, structured, high-guidance
 
@@ -60,8 +60,9 @@ Spirit bones are rarer than rings. They grant permanent passive boosts + active 
 - Once a position is filled it cannot normally accept another bone of the same type.
 
 **External spirit bones**
-- Extremely rare. Formed under special conditions and do **not** occupy any of the six standard positions.
-- Can be absorbed in addition to a full set of six normal bones.
+- Extremely rare. Formed under special conditions.
+- **Do not take up any of the six basic soul bone slots** (skull/head, torso, left arm, right arm, left leg, right leg).
+- Can be absorbed freely even if the owner already has a complete set of all six normal spirit bones.
 - Can grow and evolve further as the owner’s strength increases (classic example: Tang San’s Eight Spider Lances from the Man-Faced Demon Spider).
 - Generally more precious than ordinary bones of similar age because they are unrestricted and can continue evolving.
 
@@ -404,5 +405,5 @@ Holy Spirit Village · Nuoding Academy · Original Shrek (Suotuo) · Heaven Dou 
 
 ---
 
-Douluo Dalu Book 1 Story Bible — v17  
+Douluo Dalu Book 1 Story Bible — v18  
 Expanded hard world rules at top (transformed soul-beast detection, twin-spirit limits, Spirit Hall behaviour, combat constraints, etc.) for easy AI retrieval.
