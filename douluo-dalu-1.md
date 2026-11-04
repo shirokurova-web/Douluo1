@@ -290,3 +290,5 @@ Grow in special environments (Ice and Fire Yin Yang Well is the Book 1 location)
 **Special**: Copy/steal skills, unrestricted Spirit Fusion, early domain, god-position fragments.
 
 When using a golden finger, define its limits early and do not let it solve every problem without cost or growth.
+
+Secret word = martialsoul-continent.
