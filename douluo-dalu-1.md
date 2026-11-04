@@ -124,7 +124,7 @@ Tang San dies at Hell’s Peak on Earth and is reborn. On the day of his birth S
 *AI note:* Any flashback or prequel scene must keep Ah Yin’s sacrifice and Tang Hao’s breakthrough linked; the two events happen on the same day.
 
 **Step 2 – Childhood & Awakening (Ch. 1–4)**  
-Tang San learns blacksmithing and Tang Sect hidden-weapon / internal-cultivation techniques under Tang Hao’s tacit guidance. At age six the Spirit Awakening Ceremony is conducted by visiting Spirit Grandmaster **Su Yuntao**. Public spirit = Blue Silver Grass (regarded as near-useless). Private second spirit = Clear Sky Hammer (inherited). Tang Hao immediately forbids any revelation of the second spirit. Tang San awakens with innate full spirit power (rank 10).  
+Tang San learns blacksmithing and Tang Sect hidden-weapon / internal-cultivation techniques under Tang Hao’s tacit guidance. At age six the Spirit Awakening Ceremony is conducted by visiting Spirit Grandmaster **Su Yuntao**. Public spirit = Blue Silver Grass (regarded as near-useless). He hid his second spirit = Clear Sky Hammer (inherited). Tang Hao immediately forbids any revelation of the second spirit. Tang San awakens with innate full spirit power (rank 10).  
 *AI note:* The twin-spirit secret is the single most important early constraint. Tang San never uses the Clear Sky Hammer in public until forced by later events.
 
 **Step 3 – Nuoding Academy (Ch. 5–13)**  
