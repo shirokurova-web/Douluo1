@@ -25,6 +25,7 @@ Tang San (former Tang Sect disciple from Earth) is reborn as the son of **Tang H
 1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super/Hyper Douluo → 99 Limit Douluo → 100 God.
 
 Innate full spirit power (rank 10 at awakening) is legendary and signals huge potential.
+**Every 10 levels you MUST obtain a soul ring in order to progress**
 
 ### Spirit Rings (maximum nine)
 White <100 y · Yellow 100–999 · Purple 1 000–9 999 · Black 10 000–99 999 · Red 100 000+ (golden markings every extra 100 k years) · Platinum 1 000 000 · Divine/Bright Gold beyond.
