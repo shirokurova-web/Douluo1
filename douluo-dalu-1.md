@@ -1,411 +1,292 @@
-# Douluo Dalu Book 1 — Story Bible (v18)
+# Douluo Dalu Book 1 — Story Bible (v24)
 
-Reference for AI continuity · Chapters 0–336 · Concise, structured, high-guidance
+AI continuity reference for Douluo Continent (Book 1)
+
+<!-- AI_INDEX
+SECTIONS:
+  1 = AI_RULES           → mandatory continuity rules
+  2 = POWER_SYSTEM       → ranks, rings, bones, godhood, martial soul quality
+  3 = ORIGIN_ARC         → early story sequence (do not reorder)
+  4 = IMMORTAL_HERBS     → full herb catalogue
+  5 = CHARACTERS         → full roster of important characters
+  6 = FACTIONS_LOCATIONS → factions and key places
+  7 = GOLDEN_FINGERS     → common fanfic cheats (non-canon)
+-->
 
 ---
 
-## 1. Core Premise
+## 1. AI Continuity Rules
+<!-- SECTION: AI_RULES -->
 
-Tang San (former Tang Sect disciple from Earth) is reborn as the son of **Tang Hao** (Clear Sky Clan) and **Ah Yin** (100 000-year Blue Silver Emperor spirit beast in human form). Spirit Hall attacks on the day of his birth; Ah Yin dies, Tang Hao becomes a grieving blacksmith in Holy Spirit Village. The story follows Tang San and the **Shrek Seven Devils** rising through academies and the Continental Tournament, then fighting Spirit Hall in open war that ends in god-level conflict at Jialing Pass.
+**These rules are mandatory. Follow them in every scene.**
 
-**Tonal shift:** Ch. 1–~90 school/tournament energy → mid/late book political war and personal loss.
+### Core System Constraints
+1. **Power is systemic** — every feat must be traceable to spirit rings, spirit bones, rank, domain, an established spirit ability, or Tang Sect techniques. No ungrounded power jumps. Becoming a god requires condensing a godhood through faith, not merely absorbing a tenth ring.
+2. **Cultivation bottleneck formula**  
+   Maximum rank = (number of spirit rings + 1) × 10  
+   - 0 rings → stuck at rank 10  
+   - 1 ring → max rank 20  
+   - 2 rings → max rank 30  
+   - …  
+   - 9 rings → max rank 100  
+   A Spirit Master cannot enter the next decade of ranks without absorbing the required spirit ring.
+3. **External spirit bones** never occupy any of the six standard slots (skull, torso, left arm, right arm, left leg, right leg). They can be absorbed even with a full set of six normal bones.
+
+### Transformed Soul Beasts
+4. Only **Titled Douluo (rank 91+)** and extremely powerful Control-system Spirit Masters can see through a transformed 100 000-year soul beast’s human disguise under normal conditions.
+5. Newly transformed 100 000-year soul beasts have roughly the intelligence and emotional maturity of a **6-year-old human child**. They lack common knowledge, making them pure, sincere, and highly impressionable (example: early Xiao Wu).
+
+### Story & Character Rules
+6. The Shrek Seven Devils grow together — give all members real agency.
+7. Causal order is sacred. Follow the Origin Arc sequence exactly.
+8. Ring count + colour is the fastest power signal.
+9. Personalities stay consistent while characters mature.
+10. Two-act tone: early book = school/tournament energy; after Xiao Wu’s exposure = war and political stakes.
+11. Prefer named roster characters. Invent generic NPCs only for pure background.
+12. Only the listed immortal herbs exist as named treasures in Book 1.
+13. Write original scenes. Do not reproduce novel text.
+14. When writing tournament arcs, use the full named Emperor Team and Elemental Academy members.
 
 ---
 
-## 2. Power System & World Rules (Hard Rules – Read First)
+## 2. Power System & World Rules
+<!-- SECTION: POWER_SYSTEM -->
 
 ### Martial Spirits
-- Awakened at age 6.
-- Two families: **Beast spirits** (animal → physical transformation, offense/defense) and **Tool spirits** (object/plant/phenomenon → control, support, technique).
-- Most people have one spirit. **Twin martial spirits** are extremely rare and treated as destiny-level potential. The second spirit is almost always kept secret because of the danger it attracts (Spirit Hall and major powers hunt twin-spirit users).
-- Spirits carry inherent elemental leanings that constrain later skills.
-- Martial souls don't have instincts or contiousness except for externally attached ones like Luo sanpo.
+- Awakened at age 6. Training normally begins at 10.
+- Two families: **Beast spirits** (animal → physical) and **Tool spirits** (object/plant → control/support).
+- Twin martial spirits are extremely rare and almost always kept secret.
+- Spirits carry inherent elemental leanings.
+
+### Martial Soul Quality
+| Rank | Description | Examples |
+|------|-------------|----------|
+| **Low** | Weak attributes, limited potential | Ordinary Blue Silver Grass (pre-evolution) |
+| **Mid** | Average to respectable | Common academy beast spirits |
+| **High** | Strong innate attributes | White Tiger, Hell Spirit Cat, Fire Phoenix, Seven Treasure Glazed Tile, Jade Phosphor Serpent |
+| **Peak** | Top-tier on the continent | Clear Sky Hammer, Blue Lightning Tyrant Dragon, Six-Winged Angel, Blue Silver Emperor, Nine Treasure Glazed Tile |
+| **Divine** | Beyond normal limits, usually god-related | Sea God / Asura God spirits after inheritance |
+
+**Innate Spirit Power (0–10)** is separate but related. Innate full spirit power (10) almost always appears with High or Peak quality souls (example: Tang San).
 
 ### Rank Titles
-1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super/Hyper Douluo → 99 Limit Douluo → 100 God.
+1–10 Scholar → 11–20 Master → 21–30 Grandmaster → 31–40 Elder → 41–50 Ancestor → 51–60 King → 61–70 Emperor → 71–80 Sage → 81–90 Douluo → 91–94 Titled Douluo → 95–98 Super Douluo → 99 Limit Douluo → 100 God.
 
-Innate full spirit power (rank 10 at awakening) is legendary and signals huge potential.
-**Every 10 levels you MUST obtain a soul ring in order to progress**
+### Godhood
+Becoming a god is **not** achieved by absorbing a tenth spirit ring.  
+A Spirit Master must inherit or create a **God Position**, gather sufficient **faith**, and condense the godhood.  
+Faith quality and quantity determine the initial god level. Once created, a godhood is very difficult to improve.
 
-### Spirit Rings (maximum nine)
-White <100 y · Yellow 100–999 · Purple 1 000–9 999 · Black 10 000–99 999 · Red 100 000+ (golden markings every extra 100 k years) · Platinum 1 000 000 · Divine/Bright Gold beyond.
+God ranks (low → high):
+- Third-level God
+- Second-level God
+- First-level God
+- Quasi God King
+- God King
 
-**Number of skills granted by a spirit ring**
-- Ordinary spirit rings (under 100 000 years): **1 spirit skill**
-- 100 000-year spirit rings: **2 spirit skills**
-- 1 000 000-year (Platinum) spirit rings: **4 spirit skills** (extremely rare, god-tier resource)
+Known inheritances: Tang San (Sea God + Asura), Bibi Dong (Rakshasa), Qian Renxue (Angel).
 
-Each ring’s age also strongly affects the power of the skill(s). Absorbing a ring far above one’s current level is life-threatening for normal people.
+### Spirit Rings
+White <100 y · Yellow 100–999 · Purple 1k–9 999 · Black 10k–99 999 · Red 100k+ · Platinum 1M · Divine beyond.
 
-**Soul power feedback on absorption**  
-After successfully absorbing a spirit ring, the Spirit Master almost always receives an immediate soul-power feedback that raises their rank by roughly **1 to 2 levels** (sometimes slightly more with particularly suitable or high-age rings).
+**Skills per ring**
+- Ordinary (<100k years): 1 skill
+- 100 000-year: 2 skills
+- 1 000 000-year: 4 skills
 
-### Spirit Bones (Normal vs External)
+**Soul power feedback**: absorbing a ring usually grants +1 to +2 ranks immediately.
 
-Spirit bones are rarer than rings. They grant permanent passive boosts + active skills and do **not** count against the nine-ring limit.
+### Spirit Bones
+**Skills per bone**
+- Ordinary: usually 1 active skill
+- 100 000-year: 2 active skills
+- 1 000 000-year: up to 4 active skills
 
-**Number of skills from spirit bones**
-- Ordinary spirit bones: usually **1 active skill**
-- 100 000-year spirit bones: **2 active skills**
-- 1 000 000-year spirit bones: up to **4 active skills** (mythic rarity)
+**Normal spirit bones (six fixed slots)**
+| Position | Primary Benefit |
+|----------|-----------------|
+| Skull | Mental / spiritual power, perception, mental defense |
+| Torso | Endurance, defense, vitality, survivability |
+| Arms | Strength and attack power of that arm |
+| Legs | Speed, agility, mobility |
 
-**Normal (standard) spirit bones – six fixed positions**
-
-| Position | Primary Benefits |
-|----------|------------------|
-| **Skull** | Pure mental / spiritual power boost. Greatly enhances spiritual force, perception, mental defense, and mental-type skills. |
-| **Torso (Trunk)** | Overall endurance, defense, vitality, and comprehensive bodily strength. Improves survivability and sustained combat ability. |
-| **Left Arm / Right Arm** | Greatly increases strength and attack power of that arm. Improves striking force, weapon handling, and arm-based techniques. |
-| **Left Leg / Right Leg** | Greatly increases speed, agility, and mobility. Improves footwork, explosive movement, and leg-based techniques. |
-
-- A Spirit Master can absorb at most **one bone per position** (maximum six normal spirit bones).
-- Once a position is filled it cannot normally accept another bone of the same type.
+Maximum one bone per slot. Once filled, the slot cannot accept another of the same type.
 
 **External spirit bones**
-- Extremely rare. Formed under special conditions.
-- **Do not take up any of the six basic soul bone slots** (skull/head, torso, left arm, right arm, left leg, right leg).
-- Can be absorbed freely even if the owner already has a complete set of all six normal spirit bones.
-- Can grow and evolve further as the owner’s strength increases (classic example: Tang San’s Eight Spider Lances from the Man-Faced Demon Spider).
-- Generally more precious than ordinary bones of similar age because they are unrestricted and can continue evolving.
+- Do **not** take any of the six standard slots.
+- Can be absorbed even with a full set of six normal bones.
+- Can grow and evolve with the owner (example: Tang San’s Eight Spider Lances).
 
-**Benefits of absorbing any spirit bone**
-- Immediate permanent increase in physical fitness, strength, speed, endurance, and bodily resilience (scaled by the bone’s age and position).
-- One or more active skills linked to the bone’s origin.
-- Significant soul-power feedback. Higher-age bones give larger rank boosts.
-  - A 100 000-year spirit bone can raise even a high-level Spirit Master by several ranks.
-  - Example: a 100 000-year bone improved Tang San by approximately **5 ranks** when he was already around rank 80.
-- Because cultivation becomes progressively harder at higher ranks, the same absolute gain is far more valuable in the 70s–90s than at low levels.
+**Benefits of any spirit bone**
+- Permanent boost to physical fitness, strength, speed, endurance.
+- Active skills linked to the bone’s origin.
+- Significant rank feedback (a 100k-year bone can raise even a rank-80+ Spirit Master by several levels). Rank gains are more valuable at higher levels because cultivation becomes harder.
 
-**Important notes**
-- 100 000-year spirit bones (and rings) are extremely rare strategic resources and almost always trigger major attention from Spirit Hall and other powers.
-- External bones can continue to evolve and unlock additional abilities as their owner grows stronger.
-
-### Critical World Rules (for AI continuity)
-
-**Transformed Soul Beasts**
-- 100 000-year spirit beasts can take human form and possess human-level intelligence (Xiao Wu, Ah Yin).
-- **Only Titled Douluo (rank 91+) and extremely powerful Control-system Spirit Masters** can see through a transformed 100 000-year soul beast’s human disguise under normal conditions. Ordinary Spirit Masters, even high-rank ones, cannot pierce the disguise by sight or ordinary spiritual detection.
-- A spirit bone reaction, extreme emotional outburst, or deliberate revelation can temporarily expose the true aura even to weaker observers.
-- Killing a 100 000-year spirit beast for its ring is an act of enormous consequence and draws intense attention.
-
-**Twin Spirits**
-- Cannot both be fully cultivated at the same pace without severe risk of backlash or loss of control.
-- One spirit is usually suppressed or cultivated later.
-- Revelation of a twin spirit almost always attracts Spirit Hall interest or hostility.
-
-**Spirit Hall & Politics**
-- Spirit Hall maintains registries and actively monitors high-potential Spirit Masters, twin spirits, and 100 000-year rings/bones.
-- Spirit Hall can pressure or absorb independent academies and clans (previewed by the forced merger of four of the Five Elemental Academies).
-- Title Douluo are rare strategic assets; Super Douluo and Limit Douluo are near-mythical on the continent.
-
-**Combat & System Constraints**
-- Power is systemic: every major feat must be traceable to rings, bones, rank, domain, an established spirit ability, or Tang Sect techniques (hidden weapons, poison, internal cultivation). No ungrounded power jumps.
-- Tang Sect methods (hidden weapons, poisons, Mysterious Heaven Skill, Purple Demon Eye, etc.) sit **outside** the normal spirit system and frequently give Tang San decisive edges against pure Spirit Masters.
-- Domains appear at high levels (especially Titled Douluo) and can suppress or enhance large areas.
-- Spirit Fusion abilities (e.g. Hell White Tiger) require deep compatibility and trust between partners.
-- Food-type and pure support spirits cannot directly attack; their value is utility and amplification.
-
-**Cultivation Timing**
-- Rank advancement requires absorbing an appropriate spirit ring when spirit power reaches the next decade threshold.
-- The years before age 20 are the most critical growth window; crossing rank 30 before 20 is considered an excellent foundation.
-- Immortal herbs from the Ice and Fire Yin Yang Well provide permanent foundation boosts and, in specific cases, spirit evolution (e.g. Seven Treasure → Nine Treasure).
-
-**Other Hard Limits**
-- A Spirit Master can normally carry at most nine spirit rings.
-- Godhood requires formal trials and inheritance (Sea God, Asura God, Angel God, Rakshasa God paths appear in Book 1).
+### Other Hard Rules
+- Twin spirits cannot both be fully cultivated at the same pace without risk.
+- Spirit Hall monitors high-potential Spirit Masters, twin spirits, and 100k-year rings/bones.
+- Tang Sect methods sit outside the normal spirit system.
+- Domains appear at high levels.
+- Spirit Fusion requires deep compatibility.
+- Food-type and pure support spirits cannot directly attack.
+- Godhood requires formal trials and inheritance.
 
 ---
 
-## 3. Origin Arc — Detailed Guidance for AI (Do Not Reorder)
+## 3. Origin Arc
+<!-- SECTION: ORIGIN_ARC -->
 
-Use this sequence as the backbone for any early-to-mid story scenes. Each step has causal consequences that later events depend on.
+**Do not reorder these steps. Each has causal consequences.**
 
-**Step 1 – Crossing & Birth (Ch. 0–1 backstory)**  
-Tang San dies at Hell’s Peak on Earth and is reborn. On the day of his birth Spirit Hall forces attack. Ah Yin (rank 70, Blue Silver Emperor in human form) sacrifices herself. The emotional shock pushes Tang Hao from ~89 to rank 90 (Titled Douluo). He flees with the infant to Holy Spirit Village and settles as the village blacksmith, numbing himself with alcohol.  
-*AI note:* Any flashback or prequel scene must keep Ah Yin’s sacrifice and Tang Hao’s breakthrough linked; the two events happen on the same day.
-
-**Step 2 – Childhood & Awakening (Ch. 1–4)**  
-Tang San learns blacksmithing and Tang Sect hidden-weapon / internal-cultivation techniques under Tang Hao’s tacit guidance. At age six the Spirit Awakening Ceremony is conducted by visiting Spirit Grandmaster **Su Yuntao**. Public spirit = Blue Silver Grass (regarded as near-useless). He hid his second spirit = Clear Sky Hammer (inherited). Tang Hao immediately forbids any revelation of the second spirit. Tang San awakens with innate full spirit power (rank 10).  
-*AI note:* The twin-spirit secret is the single most important early constraint. Tang San never uses the Clear Sky Hammer in public until forced by later events.
-
-**Step 3 – Nuoding Academy (Ch. 5–13)**  
-Tang Hao sends Tang San to Nuoding Academy escorted by village elder **Jack**. There he meets **Xiao Wu**. After saving **Yu Xiaogang** from spirit-beast poison he becomes the Grandmaster’s disciple. Yu Xiaogang arranges the first two soul rings and eventually learns of the hidden Clear Sky Hammer. Partway through this period Tang Hao disappears, leaving only a letter.  
-*AI note:* Nuoding is where the Tang San–Xiao Wu bond and the Tang San–Yu Xiaogang teacher relationship are established. First two rings are obtained here; do not place them later.
-
-**Step 4 – Original Shrek Academy & Team Formation (Ch. 14–~40)**  
-Five years later Tang San and Xiao Wu travel to the small, poor, commoner-friendly Shrek Academy run by **Flender**. The Seven Devils assemble in this order: Dai Mubai (already present) → Zhu Zhuqing → Oscar → Ning Rongrong → Ma Hongjun. Early training under **Zhao Wuji**. First major Star Dou Forest hunt yields the Man-Faced Demon Spider ring and the external **Eight Spider Lances**.  
-*AI note:* Original Shrek is deliberately poor and under-resourced. The “monsters only” entrance test and Zhao Wuji’s harsh training are signature early scenes.
-
-**Step 5 – Exhibition Match vs Emperor Team (Ch. 48–52)**  
-While still based at the small Shrek, the Seven Devils fight an exhibition match at Suotuo Great Spirit Arena against Heaven Dou Imperial Academy’s seeded **Emperor Team**. Tang San neutralises **Dugu Yan**’s Jade Phosphor Serpent poison with Tang Sect methods (not a spirit ability). Victory draws the attention of her grandfather, the reclusive Poison Douluo **Dugu Bo**.  
-*AI note:* This is the first public demonstration that Tang San’s poison knowledge sits outside the normal spirit system. It is the direct cause of Dugu Bo’s later involvement.
-
-**Step 6 – Rejection & Blue Tyrant Merger (Ch. 58–62)**  
-Flender and Yu Xiaogang attempt an exchange/alliance with the prestigious Heaven Dou Imperial Academy (invitation originated from Shrek’s first graduate **Qin Ming**). Prince **Xue Xing** and Fourth Prince **Xue Beng**, openly backed by Dugu Bo, publicly humiliate and reject them. The group instead answers a recruitment notice from **Blue Tyrant Academy**, whose dean is **Liu Erlong** (Yu Xiaogang’s former fiancée and third member of the Golden Iron Triangle). Liu Erlong hands control to Flender; the academy is renamed Shrek and gains real facilities.  
-*AI note:* The rejection is a public humiliation scene. The subsequent merger reunites the Golden Iron Triangle and is the point at which Shrek becomes a properly resourced school.
-
-**Step 7 – Dugu Bo’s Test & Ice and Fire Yin Yang Well (Ch. 60–70)**  
-Dugu Bo kidnaps Tang San to interrogate how the poison was neutralised. Tang San proves he can also cure Dugu Bo’s own long-unstable poison (at the cost of neutralising Dugu Bo’s poison techniques). Taken to Dugu Bo’s hidden domain in the Sunset Forest — the **Ice and Fire Yin Yang Well**. Tang San remains for months, cultivates, forges, and later brings the rest of the Seven Devils and Yu Xiaogang for the immortal herbs.  
-*AI note:* Access to the Well is personal trust between Tang San and Dugu Bo. The Well is **not** on Sea God Island. Immortal-herb distribution happens here and permanently raises the team’s foundations.
-
-**Step 8 onwards (Tournament → War → End)**  
-Continental Tournament → Xiao Wu’s identity exposed at finals → open war with Spirit Hall → Sea God Island trials → Jialing Pass dual-god victory.  
-*AI note:* Once the tournament finals expose Xiao Wu, the story permanently shifts from school/competition energy into political and military conflict. Do not return to light tournament tone after that point.
+1. **Crossing & Birth** — Tang San reborn. Spirit Hall attack. Ah Yin sacrifices herself. Tang Hao breaks through to Titled Douluo and flees to Holy Spirit Village.
+2. **Childhood & Awakening** — Tang San learns Tang Sect techniques. Age 6: Blue Silver Grass (public) + Clear Sky Hammer (secret). Innate full spirit power. Twin spirit kept hidden.
+3. **Nuoding Academy** — Meets Xiao Wu. Becomes Yu Xiaogang’s disciple. Obtains first two spirit rings. Tang Hao disappears.
+4. **Original Shrek Academy** — Seven Devils assemble. Zhao Wuji training. Man-Faced Demon Spider ring + Eight Spider Lances.
+5. **Exhibition vs Emperor Team** — Tang San neutralises Dugu Yan’s poison with Tang Sect methods. Attracts Dugu Bo’s attention.
+6. **Rejection & Blue Tyrant Merger** — Public humiliation at Heaven Dou Imperial Academy. Merge with Liu Erlong’s Blue Tyrant Academy → new Shrek. Golden Iron Triangle reunites.
+7. **Dugu Bo & Ice-Fire Well** — Tang San cures Dugu Bo’s poison. Gains access to the Ice and Fire Yin Yang Well. Immortal herbs distributed. Seeds replanted.
+8. **Tournament → War → End** — Continental Tournament. Xiao Wu’s identity exposed at finals (tone shift to war). Sea God Island trials. Jialing Pass dual-god victory.
 
 ---
 
-## 4. Spirit Ring Progressions (Main Cast)
+## 4. Immortal Herbs
+<!-- SECTION: IMMORTAL_HERBS -->
 
-**Tang San – Blue Silver Grass → Blue Silver Emperor (+ sealed Clear Sky Hammer)**  
-1. ~400 y Datura/Mandala Snake (Yellow) – Blue Silver Bind (entangle + poison). Nuoding era.  
-2. Ghost Vine (Yellow) – stronger parasitic/restrictive bind. Nuoding era.  
-3. Man-Faced Demon Spider (~2 000+ y, Purple, limit-break) – control ability + **external Eight Spider Lances** (drain, poison, mobility). Star Dou Forest.  
-Later rings continue the control/poison/toughness theme; Clear Sky Hammer receives its own high-age rings when unsealed. Additional power from immortal herbs, multiple spirit bones, Sea God trials and Asura inheritance.
+Grow in special environments (Ice and Fire Yin Yang Well is the Book 1 location). Growth accelerated ~10×. Normally only one plant of each kind in a given place. Tang San replants seeds before leaving.
 
-**Dai Mubai – White Tiger**  
-Includes thousand-year ring granting White Tiger Vajra Transformation. Spirit Fusion with Zhu Zhuqing = Hell White Tiger.
-
-**Zhu Zhuqing – Hell Spirit Cat**  
-Speed, claw, stealth rings. Spirit Fusion partner of Dai Mubai.
-
-**Ning Rongrong – Seven Treasure → Nine Treasure Glazed Tile Pagoda**  
-Percentage buffs. Evolution (Beautiful Silk Tulip) removes rank ceiling and adds further layers + Nine Treasure Invincible Divine Light.
-
-**Oscar – Sausage**  
-Recovery and specialised utility sausages.
-
-**Ma Hongjun – Fire Phoenix → Seven-Headed Fire Phoenix**  
-Fire offence; “evil fire” personal struggle purified by Cockscomb Phoenix Sunflower.
-
-**Xiao Wu – Soft Boned Rabbit (true 100 000-year spirit beast)**  
-Agility, waist-bow, Burst Kill Eight Stage Drop. Power tied to original beast cultivation rather than normal human rings. Identity exposure is the war trigger.
+**Yearning Heartbroken Red** — King of herbs. Determination property; only one master. Legendary restorative power (can restore flesh to bone). Must be accepted by the flower; hesitation causes internal turmoil.  
+**Beautiful Silk Tulip** — Expels poisons by scent. Complements Eight Petal Immortal Orchid. Breathe in the stamen (do not eat). Enables Seven → Nine Treasure evolution.  
+**Aromatic Silk Beauty** — Fragrance neutralises all poisons in range (preventive, not curative).  
+**Octagonal Mysterious Ice Grass** — Ultimate Ice. Handle with copper. Pair with Infernal Delicate Apricot.  
+**Infernal Delicate Apricot** — Ultimate Fire. Remove with jade. Pair with Ice Grass (short neutralisation window).  
+**Singular Velvet Sky Chrysanthemum** — Nourishes body, clears meridians, grants Vajra Strength. Eat stamen then petals (not stalk).  
+**Full Moon Wearing Autumn Dew** — Elevates eye / spiritual vision (Purple Demon Eye advancement).  
+**Eight Petal Immortal Orchid** — Strengthens foundations, drives out impurities. Pick with gold, keep in jade box. Complements Beautiful Silk Tulip.  
+**Cockscomb Phoenix Sunflower** — Purifies variant fire, grants pure Yang Fire. Swallow without chewing.  
+**Nine Treasure Purple Zoysia** — Breaks long bottlenecks; can evolve certain beast spirits.  
+**Daffodil Jade Flesh Bone** — Softens muscle, mends bone, clears meridians.  
+**Sacred Soul Grass** — High-grade soul / spiritual nourishment.  
+**Ginseng King** — Meridian clearing, can raise zero innate power into spirit-master ranks.  
+**Crystal Blood Dragon Ginseng** — Dragon-blood / bloodline strengthening.  
+**Cinnabar Lotus** — Cold-yin; subdues dry heat and fire poisons.  
+**Origin Energy Immortal Grass** — Pure origin-energy nourishment.  
+**Black Jade Divine Bamboo** — High-grade bamboo-type.  
+**Land Dragon Golden Melon** — Earth-dragon power; stimulates dragon potential.  
+**Star Luo Holy Pearl** — Gentle high-grade herb.
 
 ---
 
-## 5. Immortal Herbs – Ice and Fire Yin Yang Well & Beyond
-
-**General rules**  
-Immortal Herbs are top-grade heavenly treasures. They grow in special environments where heaven-and-earth essence condenses (the three major cornucopias). The **Ice and Fire Yin Yang Well** in Sunset Forest is the one that appears in Book 1. Growth rate is accelerated ~10×. Ordinary plants cannot survive there.  
-As a true Immortal Herb there is normally only one plant of each kind in a given place at a time.  
-Actual age and cultivation age differ because of the accelerated growth.  
-Some (e.g. Nine Treasure Purple Zoysia, Ginseng King) start as lesser herbs and become true Immortal Herbs only after gaining wisdom / sufficient cultivation.  
-Plant-type spirit beasts such as Blue Silver Grass, Lone Bamboo, etc. are **not** classified as Immortal Herbs.
-
-**Pickup / handling notes (critical)**  
-Many Immortal Herbs require specific tools or methods; using the wrong material destroys their efficacy. Always follow the recorded method.
-
-### Catalogue (Name · Effect · Pickup / Consumption Method)
-
-**Yearning Heartbroken Red**  
-Effect: King among Immortal Herbs. Determination property; can have only one master. Capable of resurrecting the dead and restoring flesh to bare bones in legend. Great restorative effects, strengthens physique, cures illness. Oppresses other flower-type auras. Once it accepts a master it never withers while by their side. Spirit-ring abilities of flower-type Martial Souls are ineffective against its master.  
-Pickup: Grows from a crow-break rock. Must be picked with a calm, determined heart; hesitation causes severe internal turmoil. Forcefully breaking the rock destroys its medicinal strength. Cannot be taken by anyone it has not accepted.
-
-**Beautiful Silk Tulip**  
-Effect: Elegant and luxurious. Scent capable of expelling poisons. Complements Eight Petal Immortal Orchid. Allows the user to breathe in the quintessence of heaven and earth / radiance of sun and moon. Strongly benefits treasure-type spirits (e.g. enables evolution of Seven Treasure Glazed Tile into Nine Treasure).  
-Pickup / use: Cannot be eaten. Breathe in the stamen, slowly absorb its features, then circulate spirit power so the effects reach the limbs and bones.
-
-**Aromatic Silk Beauty**  
-Effect: Bane of all poisons. Fragrance neutralises any poison within its range (preventive, not curative for already-poisoned people). Best defensive herb against poison.  
-Pickup: Standard careful harvesting; Tang San used it both as protection while gathering other herbs and later as a gift. Seed can be replanted.
-
-**Octagonal Mysterious Ice Grass**  
-Effect: Ultimate Ice. Extreme cold that can freeze the heart. Increases cultivation speed of ice-element spirit masters. Can confer Ultimate Ice to metal if embedded in a weapon. Produces Star Anise Ice Crystal every 100 000 years.  
-Pickup: Must be handled with **copper**. Paired with Infernal Delicate Apricot for Ice-Fire dual consumption.
-
-**Infernal Delicate Apricot**  
-Effect: Ultimate Fire / opposite of the Ice Grass. Extreme heat; purest flames; amplifies and adds control to fire attributes. Highest-rank fire-type plant.  
-Pickup: Must be removed with **jade** (metal destroys potency). Grows only ~two inches every 10 000 years. Paired with Octagonal Mysterious Ice Grass; the two neutralise each other for a short window (roughly ten breaths) during which they can be safely swallowed together.
-
-**Singular Velvet Sky Chrysanthemum**  
-Effect: Top-grade nourishing herb. Invigorates pulse, consolidates constitution, clears the eight extraordinary meridians, greatly strengthens limbs and body. Grants Vajra Strength / Indestructible Body of Vajra. Can also restore memory / treat amnesia.  
-Pickup / use: Eat the stamen first, then each of the petals; do not eat the stalk.
-
-**Full Moon Wearing Autumn Dew**  
-Effect: Trains and elevates the eyes / spiritual vision (piercing eyes that see through ten thousand strange things). Directly advances eye techniques such as Purple Demon Eye.  
-Pickup: Careful plucking; consumed to upgrade ocular / spiritual perception abilities.
-
-**Eight Petal Immortal Orchid**  
-Effect: Strengthens foundations and drives out impurities. Long-lasting medicinal effect especially suited to food-system / slow-cultivation auxiliary spirits. Complements Beautiful Silk Tulip.  
-Pickup: Pick with **gold** and keep in a **jade box**. Chew and swallow; effect persists for a long cultivation span.
-
-**Cockscomb Phoenix Sunflower**  
-Effect: Strong yang / fire purifying herb. Filters impurities from phoenix or variant fire attributes, grants pure Yang Fire element, nourishes and stabilises fire-type spirits.  
-Pickup: Swallow without chewing; congregate spirit power and guide the medicinal effect.
-
-**Nine Treasure Purple Zoysia**  
-Effect: Helps break long-standing rank bottlenecks (notably the rank-30 barrier). Can evolve certain beast spirits (e.g. Luo Sanpao → Golden Dragon form). Becomes a true Immortal Herb after sufficient cultivation / wisdom.  
-Pickup: Standard careful harvesting once identified.
-
-**Daffodil Jade Flesh Bone** (Narcissus Jade Muscle Bone)  
-Effect: Softens muscle, mends bone, clears the eight extraordinary meridians. All-round physical refinement and foundation strengthening.  
-Pickup / use: Eat the petals, then suck on the stamen; remain calm while absorbing.
-
-**Sacred Soul Grass**  
-Effect: High-grade soul / spiritual nourishment herb (listed among Immortal Herbs on the wiki).  
-Pickup: Standard immortal-herb handling; specific tool requirements not detailed on the main page.
-
-**Ginseng King**  
-Effect: Powerful meridian-clearing and innate-talent elevating herb. Can raise someone from zero innate spirit power into the spirit-master ranks and clear meridians. Initially not counted as a full Immortal Herb; becomes one after possessing wisdom and sufficient cultivation. Grades exist (e.g. 1st Grade).  
-Pickup: Careful extraction of the whole root; consumption method depends on grade.
-
-**Crystal Blood Dragon Ginseng**  
-Effect: High-grade ginseng-type Immortal Herb with dragon-blood / bloodline strengthening properties (listed on the wiki).  
-Pickup: Whole-root extraction; handle as a top-tier ginseng treasure.
-
-**Cinnabar Lotus**  
-Effect: Cold-yin inclined treasure. Subdues dry heat; valuable medical ingredient especially effective against fire-type poisons.  
-Pickup: Careful plucking; appears among the herbs Tang San surveys at the Well.
-
-**Origin Energy Immortal Grass**  
-Effect: Pure origin-energy nourishment; high-grade foundation and recovery herb (listed on the wiki).  
-Pickup: Standard immortal-herb protocols.
-
-**Black Jade Divine Bamboo**  
-Effect: High-grade bamboo-type Immortal Herb; later appears with 100 000+ year cultivation and wisdom in subsequent books.  
-Pickup: Cutting / harvesting method must preserve its jade-like properties.
-
-**Land Dragon Golden Melon**  
-Effect: Contains earth-dragon upheaval power; can stimulate dragon-related potential in compatible spirits.  
-Pickup: Harvest the golden melon fruit carefully.
-
-**Star Luo Holy Pearl** (Star Lou Holy Pearl)  
-Effect: Gentle, human-friendly high-grade Immortal Herb; later appears with 100 000+ year cultivation.  
-Pickup: Standard careful collection of the pearl / fruit.
-
-**Additional notes for Book 1 use**  
-- Tang San acquires the full set present at the Ice and Fire Yin Yang Well, uses several himself (especially the Ice Grass + Infernal Apricot pair and Full Moon Wearing Autumn Dew), distributes others, and **replants the seeds** before leaving so the ecology can recover.  
-- When writing scenes, always respect the specific pickup tool (copper / jade / gold) and consumption method; incorrect handling destroys the herb.  
-- Do not treat ordinary plant-type spirit beasts as Immortal Herbs.
-
-## 6. Character Roster (Expanded – Tournament & Side Characters)
+## 5. Character Roster
+<!-- SECTION: CHARACTERS -->
 
 ### Shrek Seven Devils
-- **Tang San** – Protagonist. Twin spirits, Tang Sect specialist. Calm, calculating, fiercely loyal.  
-- **Xiao Wu** – 100k-year Soft Boned Rabbit in human form. Playful, affectionate, ultimate self-sacrifice.  
-- **Dai Mubai** – White Tiger. Nominal leader, arrogant exterior, responsible core. Star Luo lineage.  
-- **Zhu Zhuqing** – Hell Spirit Cat. Cold, reserved, speed assassin.  
-- **Ning Rongrong** – Support pagoda. Spoiled → mature. Daughter of Ning Fengzhi.  
-- **Oscar** – Food-type support. Playful, loyal.  
-- **Ma Hongjun** – Fire Phoenix. Gluttonous → reliable heavy hitter.
+- **Tang San** — Protagonist. Twin spirits (Blue Silver Grass / Blue Silver Emperor + Clear Sky Hammer), Tang Sect specialist. Calm, calculating, fiercely loyal.
+- **Xiao Wu** — 100 000-year Soft Boned Rabbit in human form. Playful, affectionate, ultimate self-sacrifice.
+- **Dai Mubai** — White Tiger. Nominal leader, arrogant exterior, responsible core. Star Luo lineage.
+- **Zhu Zhuqing** — Hell Spirit Cat. Cold, reserved, speed assassin. Spirit Fusion partner of Dai Mubai.
+- **Ning Rongrong** — Seven Treasure → Nine Treasure Glazed Tile Pagoda. Spoiled → mature. Daughter of Ning Fengzhi.
+- **Oscar** — Food-type (Sausage) support. Playful, loyal.
+- **Ma Hongjun** — Fire Phoenix → Seven-Headed Fire Phoenix. Gluttonous → reliable heavy hitter.
 
 ### Shrek Staff & Golden Iron Triangle
-- **Flender** (Four-Eyed Owl) – Dean. Pragmatic, protective of “talent over birth”.  
-- **Yu Xiaogang** (Grandmaster) – Theorist, Tang San’s teacher. Serious, principled, emotionally scarred.  
-- **Liu Erlong** – Former Blue Tyrant dean, Yu Xiaogang’s former fiancée. Hot-tempered, protective; maternal to Xiao Wu.  
-- **Zhao Wuji** (Motionless Bright King) – Combat instructor, Spirit Sage. Blunt.  
-- **Qin Ming** – First Shrek graduate; later teacher and tournament vice-leader.  
-- **Shao Xin, Lu Jibin, Li Yusong** – Additional Shrek teachers who appear during later tournament / academy arcs.
+- **Flender** (Four-Eyed Owl) — Dean. Pragmatic, protective of talent over birth.
+- **Yu Xiaogang** (Grandmaster) — Theorist, Tang San’s teacher. Serious, principled, emotionally scarred.
+- **Liu Erlong** — Former Blue Tyrant dean, Yu Xiaogang’s former fiancée. Hot-tempered, protective; maternal toward Xiao Wu.
+- **Zhao Wuji** (Motionless Bright King) — Combat instructor, Spirit Sage. Blunt.
+- **Qin Ming** — First Shrek graduate; later teacher and tournament vice-leader.
+- **Shao Xin, Lu Jibin, Li Yusong** — Additional Shrek teachers who appear during later tournament / academy arcs.
 
 ### Tang Family & Core Allies
-- **Tang Hao** (Clear Sky Douluo) – Father. Harsh, grieving, extremely powerful when he acts.  
-- **Ah Yin** – Mother. 100k-year Blue Silver Emperor. Sacrifices herself; later restored.  
-- **Dugu Bo** (Poison Douluo) – Eccentric ally after poison cure. Grants Well access.  
-- **Ning Fengzhi** – Seven Treasure Glazed Tile Clan head. Political and material backer.  
-- **Bo Saixi** (Sea God Douluo) – High Priestess of Sea God Island. Oversees trials; sacrifices herself for Tang San’s ascension.  
-- **Tang Chen** (Clear Sky Douluo) – Great-grandfather. Peer of Qian Daoliu. Missing for most of the story.  
-- **Chen Xin** (Sword Douluo) – Allied with Seven Treasure Clan.  
-- **Gu Rong** (Bone Douluo) – Second Title Douluo of the Seven Treasure Glazed Tile Clan; appears at key VIP / support moments.  
-- **Da Ming & Er Ming** – 100k-year twin snakes of Star Dou Forest. Xiao Wu’s allies.  
-- **Jack** – Holy Spirit Village elder.  
-- **Su Yuntao** – Awakening ceremony Spirit Grandmaster; later tournament official.  
-- **Yang Wudi** – Breaking Clan leader; receives Aromatic Silk Beauty later.  
-- **Tai Tan** (and Defense Clan members) – Appear in mid-to-late story around forging / clan gatherings.
+- **Tang Hao** (Clear Sky Douluo) — Father. Harsh, grieving, extremely powerful when he acts.
+- **Ah Yin** — Mother. 100 000-year Blue Silver Emperor. Sacrifices herself; later restored.
+- **Dugu Bo** (Poison Douluo) — Eccentric ally after poison cure. Grants Well access.
+- **Ning Fengzhi** — Seven Treasure Glazed Tile Clan head. Political and material backer.
+- **Bo Saixi** (Sea God Douluo) — High Priestess of Sea God Island. Oversees trials; sacrifices herself for Tang San’s ascension.
+- **Tang Chen** (Clear Sky Douluo) — Great-grandfather. Peer of Qian Daoliu. Missing for most of the story.
+- **Chen Xin** (Sword Douluo) — Allied with Seven Treasure Clan.
+- **Gu Rong** (Bone Douluo) — Second Title Douluo of the Seven Treasure Glazed Tile Clan.
+- **Da Ming & Er Ming** — 100 000-year twin snakes of Star Dou Forest. Xiao Wu’s allies.
+- **Jack** — Holy Spirit Village elder.
+- **Su Yuntao** — Awakening ceremony Spirit Grandmaster; later tournament official.
+- **Yang Wudi** — Breaking Clan leader; receives Aromatic Silk Beauty later.
+- **Tai Tan** (and Defense Clan members) — Appear around forging / clan gatherings.
 
-### Spirit Hall – Leadership & Hall of Worship (Seven Offerings)
-**Supreme Pontiff**  
-- **Bibi Dong** – Central antagonist. Cold, calculating, ambitious. Orders original hunt that kills Xiao Wu’s mother; issues capture order that starts war; becomes Rakshasa God. Final battle opponent.
+### Spirit Hall – Leadership & Hall of Worship
+- **Bibi Dong** — Supreme Pontiff, central antagonist. Cold, calculating, ambitious. Later becomes Rakshasa God.
+- **Hall of Worship (Seven Offerings)**:
+  1. **Qian Daoliu** (Grand Worship, Angel Douluo) — Level 99. Highest authority in the Hall. Peer of Tang Chen.
+  2. **Golden Crocodile Douluo** — Level 98. Second Offering.
+  3. **Azure Luan / Qingluan Douluo** — Level 97. Third Offering.
+  4. **Lion Douluo** (Fierce Lion) — Fourth Offering.
+  5. **Guangling / Light Feather Douluo** — Fifth Offering.
+  6. **Qianjun Douluo** — Sixth Offering.
+  7. **Jiangmo / Demon-Subduing Douluo** — Seventh Offering.
+- **Yue Guan** (Chrysanthemum Douluo) — Rank 95+. Elegant, frequent field commander.
+- **Gui Mei** (Ghost Douluo) — Rank 95+. Masked; inseparable from Yue Guan.
+- **Qian Renxue** — Bibi Dong’s daughter. Infiltrates Heaven Dou for years as false Crown Prince Xue Qinghe. Angel spirit → Angel God. Proud, internally conflicted.
+- **Golden Generation**: **Xie Yue** (Moon Blade), **Hu Liena** (Fox/charm, develops interest in Tang San), **Yan** (fire-attribute power attacker).
 
-**Hall of Worship / Elder Hall (Seven Offerings)** – peak combat force, rank 96–99:  
-1. **Qian Daoliu** (Grand Worship, Angel Douluo) – Level 99. Highest authority in the Hall. Guardian of Angel God trials. Peer of Tang Chen.  
-2. **Golden Crocodile Douluo** – Level 98. Second Offering.  
-3. **Azure Luan / Qingluan Douluo** – Level 97. Third Offering.  
-4. **Lion Douluo** (Fierce Lion) – Fourth Offering.  
-5. **Guangling / Light Feather Douluo** – Fifth Offering.  
-6. **Qianjun Douluo** – Sixth Offering.  
-7. **Jiangmo / Demon-Subduing Douluo** – Seventh Offering.  
+### Heaven Dou Imperial Academy – Emperor Team
+- **Yu Tianheng** — Captain. Blue Lightning Tyrant Dragon. Power-attack. Rank ~39 at exhibition.
+- **Dugu Yan** — Vice-captain. Jade Phosphor Serpent. Control/poison. Rank ~38. Granddaughter of Dugu Bo.
+- **Shi Mo** — Black Tortoise. Defence. Rank ~38.
+- **Shi Mo** (twin) — Black Tortoise. Defence. Rank ~37.
+- **Yu Feng** — Wind Chime Bird. Agility-attack. Rank ~36.
+- **Osler (Oslo)** — Ghost Leopard. Agility-attack. Rank ~36.
+- **Ye Lingling** (also rendered Xie Lingling) — Nine Heart Flowering Apple. Auxiliary/healing. Rank ~35. Primary healer.
 
-**Other high elders / enforcers**  
-- **Yue Guan** (Chrysanthemum Douluo) – Rank 95+. Elegant, frequent field commander.  
-- **Gui Mei** (Ghost Douluo) – Rank 95+. Masked; inseparable from Yue Guan.  
-
-**Qian Renxue** – Bibi Dong’s daughter. Infiltrates Heaven Dou for years as false Crown Prince Xue Qinghe. Angel spirit → Angel God. Proud, internally conflicted. Joins final battle against Tang San.
-
-**Spirit Hall Academy – Golden Generation**  
-- **Xie Yue** – Moon Blade. Power attack. Spirit Fusion with Hu Liena (**Charm Demon**).  
-- **Hu Liena** – Fox/charm spirit. Develops complicated interest in Tang San during tournament / Hell Road.  
-- **Yan** – Fire-attribute power attacker.  
-(Additional unnamed Golden Generation members appear in the finals.)
-
-### Heaven Dou Imperial Academy – Emperor Team (full named roster from novel)
-- **Yu Tianheng** – Captain. Blue Lightning Tyrant Dragon. Power-attack. Rank ~39 at exhibition.  
-- **Dugu Yan** – Vice-captain. Jade Phosphor Serpent. Control/poison. Rank ~38. Granddaughter of Dugu Bo.  
-- **Shi Mo** – Black Tortoise. Defence. Rank ~38.  
-- **Shi Mo** (twin) – Black Tortoise. Defence. Rank ~37.  
-- **Yu Feng** – Wind Chime Bird. Agility-attack. Rank ~36.  
-- **Osler (Oslo)** – Ghost Leopard. Agility-attack. Rank ~36.  
-- **Ye Lingling** (also rendered Xie Lingling) – Nine Heart Flowering Apple. Auxiliary/healing. Rank ~35. Primary healer; spirit famous for powerful recovery.
-
-### Five Elemental Academies – Named Members
-
+### Five Elemental Academies
 **Blazing Academy (Fire)**  
-- **Huo Wushuang** – Captain. One-Horned Tyrant Dragon / Fire Dragon. Power-attack. Rank ~42. Mainstay head-on attacker.  
-- **Huo Wu** – Key member / vice-captain level. Fire-attribute; develops feelings for Tang San. Sister of Huo Wushuang.  
+- **Huo Wushuang** — Captain. One-Horned Tyrant Dragon / Fire Dragon. Rank ~42.  
+- **Huo Wu** — Key member; develops feelings for Tang San. Sister of Huo Wushuang.
 
 **Godwind Academy (Air)**  
-- **Feng Xiaotian** – Control-system Spirit Master and team soul / core. Holds unrequited feelings for Huo Wu. Frequently interacts with Blazing Academy.  
+- **Feng Xiaotian** — Control-system core / team soul. Holds unrequited feelings for Huo Wu.
 
 **Skywater Academy (Water – female only)**  
-- **Shui Bing’er (Shui Bing-Er)** – Captain / eldest sister by strength. Control system. Rank ~43. Position in her team even more central than Tang San’s in Shrek.  
-- **Shui Yue’er (Shui Yue-Er)** – Agility-attack. Rank ~36. Similar appearance to Shui Bing’er.  
-- **Xue Wu** – Important member; participates in key spirit-fusion / control combinations with Shui Bing’er.  
+- **Shui Bing’er** — Captain / eldest sister by strength. Control system. Rank ~43.  
+- **Shui Yue’er** — Agility-attack. Rank ~36.  
+- **Xue Wu** — Important member; participates in key combinations with Shui Bing’er.
 
 **Thunderclap Academy (Lightning)**  
-- **Yu Tianxin** – Linked to Blue Lightning Tyrant Dragon Clan; appears as a high-level / captain-level figure associated with Thunderclap forces in later tournament stages.  
-(Individual lower members are less individually named in the text; treat the academy as a high-speed lightning-attribute force.)
+- **Yu Tianxin** — Linked to Blue Lightning Tyrant Dragon Clan; high-level figure associated with Thunderclap.
 
 **Elephant Armored Academy (Earth / Defence)**  
-- **Hu Yan Zhen (Huyan Zhen)** – Heavenly Elephant; elder / school-level powerhouse who attends matches and later interacts with other clans.  
-- **Hu Yan Li** – Team member / on-stage fighter during the Shrek vs Elephant Armored match.  
-(The seven team members are described as uniformly massive defence specialists; most remain group-level rather than deeply individualized.)
+- **Hu Yan Zhen (Huyan Zhen)** — Heavenly Elephant; elder / school-level powerhouse.  
+- **Hu Yan Li** — On-stage fighter during the Shrek vs Elephant Armored match.
 
 ### Other Tournament, Political & Side Characters
-- **Prince Xue Xing** & **Fourth Prince Xue Beng** – Orchestrate Shrek’s public rejection at Heaven Dou Imperial Academy.  
-- **Emperor Xue Ye** – Heaven Dou Emperor; appears in VIP seats during tournament.  
-- **Platinum Bishop Salas** – Spirit Hall representative at Heaven Dou; present at key tournament and political scenes.  
-- **Shi Nian** – Spirit Sage of Blue Sunshine Academy; illusion-type spirit; appears in mid-tournament.  
-- **Bai Chenxiang** – Later linked romantically to Ma Hongjun.  
-- **Meng Yiran & Meng Shu** – Appear in early Star Dou / challenge arcs (Serpent Cane, etc.).  
-- **Tai Nuo** – Early opponent in one of the spirit-arena / ranking fights.  
-- Tournament spirit-bone prizes (awarded by Spirit Hall at the finals): **Thought Focusing / Mind Condensing Wisdom Skull**, Burst Incineration Flame Right Arm, Fast Movement Windchasing Left Leg. The Wisdom Skull is the highest-quality of the three (from a ~50 000-year beast) and is obtained by Tang San’s side; it becomes a major power-up (mental force amplification).  
-- Various Title Douluo and elders of the Seven Treasure Glazed Tile Clan and Blue Lightning Tyrant Dragon Clan appear as victims or supporters during the war arc.  
-
-**Note on spirit bones & “teacher” incidents**  
-Tang San obtains multiple spirit bones across the story (Eight Spider Lances external, Wisdom Skull from tournament prizes, later bones from other sources). Specific “teacher killed for a skull bone given to Ning Rongrong” is not a single cleanly named early event in the core tournament text; Ning Rongrong’s major power spikes come primarily from the Beautiful Silk Tulip (spirit evolution) and later team-wide resources. Use the named tournament prizes and the Eight Spider Lances as the firmly established early-to-mid spirit-bone events.
-
-## 7. Factions & Locations (Quick Reference)
-
-**Factions**  
-Spirit Hall / Spirit Empire · Clear Sky Clan (Haotian Sect) · Seven Treasure Glazed Tile Clan · Blue Lightning Tyrant Dragon Clan · Heaven Dou Empire · Star Luo Empire · Sea God Island · Breaking Clan (Yang Wudi) · Five Elemental Academies / later School of Four Elements.
-
-**Key Locations**  
-Holy Spirit Village · Nuoding Academy · Original Shrek (Suotuo) · Heaven Dou Imperial Academy · Merged Shrek (ex-Blue Tyrant) · Star Dou Forest · Sunset Forest (Ice and Fire Yin Yang Well) · Sea God Island · Jialing Pass · Suotuo Great Spirit Arena.
+- **Prince Xue Xing** & **Fourth Prince Xue Beng** — Orchestrate Shrek’s public rejection at Heaven Dou Imperial Academy.
+- **Emperor Xue Ye** — Heaven Dou Emperor; appears in VIP seats during tournament.
+- **Platinum Bishop Salas** — Spirit Hall representative at Heaven Dou.
+- **Shi Nian** — Spirit Sage of Blue Sunshine Academy; illusion-type spirit.
+- **Bai Chenxiang** — Later linked romantically to Ma Hongjun.
+- **Meng Yiran & Meng Shu** — Appear in early Star Dou / challenge arcs.
+- **Tai Nuo** — Early opponent in spirit-arena fights.
 
 ---
 
-## 8. AI Continuity Rules
+## 6. Factions & Locations
+<!-- SECTION: FACTIONS_LOCATIONS -->
 
-1. Power is systemic — every feat traces to rings, bones, rank, domain, Tang Sect technique or established ability.  
-2. Ensemble first — the Seven Devils grow together.  
-3. Causal order is sacred (see §3 detailed steps).  
-4. Ring count + colour = fastest power signal.  
-5. Personalities stay consistent while characters mature.  
-6. Two-act tone (school → war).  
-7. Prefer named roster characters; generic NPCs only for pure background.  
-8. Only the listed immortal herbs exist as named treasures in Book 1.  
-9. Write original scenes; do not reproduce novel text.  
-10. When writing tournament arcs, use the full Emperor Team and named Elemental Academy members above rather than inventing new ones.
+**Factions**: Spirit Hall / Spirit Empire · Clear Sky Clan (Haotian Sect) · Seven Treasure Glazed Tile Clan · Blue Lightning Tyrant Dragon Clan · Heaven Dou Empire · Star Luo Empire · Sea God Island · Breaking Clan (Yang Wudi) · Five Elemental Academies / later School of Four Elements.
+
+**Key Locations**: Holy Spirit Village · Nuoding Academy · Original Shrek (Suotuo) · Heaven Dou Imperial Academy · Merged Shrek (ex-Blue Tyrant) · Star Dou Forest · Sunset Forest (Ice and Fire Yin Yang Well) · Sea God Island · Jialing Pass · Suotuo Great Spirit Arena.
 
 ---
 
-Douluo Dalu Book 1 Story Bible — v18  
-Expanded hard world rules at top (transformed soul-beast detection, twin-spirit limits, Spirit Hall behaviour, combat constraints, etc.) for easy AI retrieval.
+## 7. Common Golden Fingers (Fanfiction Tropes)
+<!-- SECTION: GOLDEN_FINGERS -->
+
+**Non-canon.** Common cheats used in Douluo fanfiction.
+
+**System-type**: Task/Quest, Lottery/Gacha, Sign-in, Shop/Points, Tsundere/Dissatisfied System, Choice System, Review System, Profession System.  
+**Knowledge**: Full plot knowledge, future vision, appraisal ability.  
+**Martial Soul & Body**: Twin/triple souls, god-level soul, early external bones, ring-age amplification, superior body refinement.  
+**Space / Resources**: Personal storage with time acceleration, herb gardens, auto-loot, infinite spirit power.  
+**Bloodline & Inheritance**: Divine beast bloodline, early god-king inheritance, unrestricted bone fusion.  
+**Time & Rebirth**: Rebirth with memories, time-travel to key past events.  
+**Social**: Favourability systems, faction creation, reputation bonuses.  
+**Special**: Copy/steal skills, unrestricted Spirit Fusion, early domain, god-position fragments.
+
+When using a golden finger, define its limits early and do not let it solve every problem without cost or growth.
